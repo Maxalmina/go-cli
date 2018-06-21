@@ -1,7 +1,7 @@
 # go-cli
-### An app of second stage final assignment SEA Academy COMPFEST X
+### code of second stage final assignment SEA Academy COMPFEST X
 
-This app can be executed in **three ways**:
+This app can be executed in _three ways_ by run **main.rb** file:
   1. Without parameter
   2. With passing three space-separated integers as parameters. Assume the first Parameter value > second and third parameter values.
   3. With passing filename with .in format. In this case, assume the file consists of 6 lines.
