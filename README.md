@@ -3,8 +3,8 @@
 
 This app can be executed in **three ways**:
   1. Without parameter
-  2. With passing three space-separated integers as parameters. We assume the first Parameter value > second and third parameter values.
-  3. With passing filename with .in format. In this case, we assume file consist of 6 lines.
+  2. With passing three space-separated integers as parameters. Assume the first Parameter value > second and third parameter values.
+  3. With passing filename with .in format. In this case, assume the file consists of 6 lines.
     * first line contains three space-separated integers denoting the respective values of size of map and user coordinate.
     * five other lines contains two space-separated integers describing driver coordinate.
 
@@ -37,3 +37,7 @@ Map will contains map description so user can be easily understand the map.
 Formula for the price is: unit of distance * 200 (unit cost). Unit cost can be modified only by the admin. Unit of distance obtained from number of elements in the array of route.
 
 This application consists of five main classes, which is illustrated by the following diagrams.
+
+![alt text][logo]
+
+[logo]: https://github.com/Maxalmina/go-cli/blob/master/class_diagram_go-cli.jpg
