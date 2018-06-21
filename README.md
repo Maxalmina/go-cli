@@ -31,10 +31,25 @@ All completed trip information stored in save.txt, every three lines contains a 
   * First line contains driver name
   * Second line contains route
   * Third line contains the price
+  > 
+  
+    Sample save.txt content:
+  
+    Try
+  
+    15 17,16 17,17 17,18 17,19 17,19 18,19 19
+  
+    C$2100
+  
+    Ary
+  
+    7 8,6 8,5 8,4 8,3 8,2 8,1 8,1 7,1 6,1 5,1 4,1 3,1 2,1 1,1 0
+  
+    C$4500
 
 Map will contains map description so user can be easily understand the map.
 
-Formula for the price is: unit of distance * 200 (unit cost). Unit cost can be modified only by the admin. Unit of distance obtained from number of elements in the array of route.
+Formula for the price is: unit of distance * C$200 (200 compfest dollar). Unit cost can be modified only by the admin. Unit of distance obtained from number of elements in the array of route.
 
 This application consists of five main classes, which is illustrated by the following diagrams.
 
