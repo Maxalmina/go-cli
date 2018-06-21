@@ -35,3 +35,5 @@ All completed trip information stored in save.txt, every three lines contains a 
 Map will contains map description so user can be easily understand the map.
 
 Formula for the price is: unit of distance * 200 (unit cost). Unit cost can be modified only by the admin. Unit of distance obtained from number of elements in the array of route.
+
+This application consists of five main classes, which is illustrated by the following diagrams.
