@@ -1,5 +1,5 @@
 # go-cli
-### An app of second stage final assignment SEA Academy [COMPFEST X](www.compfest.web.id)
+### An app of second stage final assignment SEA Academy COMPFEST X
 
 This app can be executed in **three ways**:
   1. Without parameter
